@@ -1,0 +1,13 @@
+Votre site sera accessible à :
+
+https://ousmanebandoulou-ai.github.io/Learning-online
+
+Pour activer GitHub Pages :
+1. Allez sur https://github.com/ousmanebandoulou-ai/Learning-online
+2. Cliquez sur "Settings"
+3. Cliquez sur "Pages" dans le menu de gauche
+4. Sélectionnez "main" branch
+5. Cliquez sur "Save"
+
+Le site sera actif en 1-2 minutes !
+
